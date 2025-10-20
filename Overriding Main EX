@@ -1,0 +1,11 @@
+package com.Overriding;
+
+public class TypePromotionMain {
+
+	public static void main(String[] args) {
+		TypePromotionEx t1= new TypePromotionEx();
+		t1.display(10);
+		
+	}
+
+}
