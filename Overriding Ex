@@ -1,0 +1,9 @@
+# Polymorphism
+package com.Overriding;
+
+public class TypePromotionEx {
+	void display( int a) {
+		System.out.println("I am integer arugument");
+	}
+
+}
